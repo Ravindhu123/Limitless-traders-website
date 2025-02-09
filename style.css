@@ -1,9 +1,9 @@
 body {
-    font-family: Arial, sans-serif;
-    margin: 0;
-    padding: 0;
-    background-color: #1c1c1c;
-    color: #fff;
+    background-color: #f5f5f5; /* Replace with your desired color */
+    background-image: url('assets/images/background.jpg'); /* Replace with the correct path to your image */
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
 }
 
 header {
